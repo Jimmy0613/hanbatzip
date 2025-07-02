@@ -9,9 +9,9 @@ spring:
     name: application.yml
 
   datasource:
-    url: jdbc:postgresql://db.wijhmmapqzezuipynkco.supabase.co:5432/postgres
-    username: postgres
-    password: Umg2uB8LC9ezHkjt
+    url: jdbc:postgresql://100.84.115.51:25072/hanbatzip
+    username: kyl
+    password: 1234
     driver-class-name: org.postgresql.Driver
     hikari:
       maximum-pool-size: 10
